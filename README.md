@@ -46,11 +46,11 @@
 | [**sos-lab**](https://github.com/yunhoseo/sos-lab) | Lab attendance and seminar schedule web app — Supabase RLS + GitHub Pages |
 | [**lego-ai-ball-detection**](https://github.com/yunhoseo/lego-ai-ball-detection) | Teaching kit connecting YOLO ball detection to LEGO SPIKE Prime motors (code, student guide, demo video) |
 
-Thesis research code (appearance-free cross-camera association on WILDTRACK/MMPTrack) will be released with the corresponding publication.
+Ongoing, not yet public: a low-cost vision-based logistics digital twin (YOLOv8 tracking → coordinate calibration → OPC UA server → TCP/IP → Unity client in C#, with throughput counting and bottleneck detection) under a Jungseok Logistics Foundation project, and the thesis code for appearance-free cross-camera association on WILDTRACK/MMPTrack. Both will be released with the corresponding publications.
 
 ### Toolbox
 
-`Python` · `PyTorch` · `Ultralytics YOLO` · `ByteTrack` · `OpenCV` · `XGBoost` · `scikit-learn` · `FastAPI` · `Docker` · `Fly.io` · `Firebase` · `Supabase` · `Anthropic SDK`
+`Python` · `PyTorch` · `Ultralytics YOLO` · `ByteTrack` · `OpenCV` · `XGBoost` · `scikit-learn` · `FastAPI` · `Docker` · `Fly.io` · `Firebase` · `Supabase` · `Anthropic SDK` · `OPC UA` · `Unity (C#)`
 
 ### Contact
 
